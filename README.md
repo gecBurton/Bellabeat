@@ -1,4 +1,4 @@
-This is just the raw 'R' code for my Google Capstone project. To see completed project, with the code and visualisations formatted and run correctly please visit the following [*link*](https://rpubs.com/Willb/Bellabeat_Capstone) 
+This is just the raw 'R' code for my Google Capstone project. To see the completed project, with the code and visualisations run correctly, please visit the following link [*link*](https://rpubs.com/Willb/Bellabeat_Capstone) 
 
 
 
